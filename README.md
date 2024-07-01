@@ -29,7 +29,7 @@ Installation To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash Copy code git clone https://github.com/your_username/customer-churn-prediction.git Navigate to the project directory:
+bash Copy code git clone https://github.com/Gitika-26/TelecomChurnPredictionandAnalysis.git Navigate to the project directory:
 
 bash Copy code cd customer-churn-prediction Create a virtual environment:
 
