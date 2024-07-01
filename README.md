@@ -2,7 +2,6 @@
 This portfolio project include analysis and prediction of churn of telecom customers
 This project aims to predict customer churn for a subscription service using supervised machine learning techniques Churn prediction helps businesses identify customers who are likely to cancel their subscription, allowing for proactive retention strategies. The insights and predictions are visualized using Power BI for better decision-making.
 
-Table of Contents Introduction Data Features Modeling Results Power BI Dashboard Installation Usage Contributing License Introduction Customer churn prediction is critical for subscription-based services. By understanding and predicting churn, companies can improve customer retention, reduce acquisition costs, and increase revenue. This project leverages machine learning techniques to accurately predict churn and provide actionable insights.
 
 Data The dataset used in this project includes the following information: Customer demographics Subscription details Usage data Support tickets The columns are ['SeniorCitizen', 'tenure' 'customerID', 'gender', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'MonthlyCharges','StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod', 'TotalCharges', 'Churn']
 
@@ -10,7 +9,11 @@ The dataset has to be preprocessed to handle missing values, encode categorical 
 
 The following machine learning models were implemented and evaluated:
 
-Logistic Regression Random Forest Gradient Boosting Support Vector Classification Decision Trees KNN Classification
+Logistic Regression 
+Random Forest 
+Gradient Boosting 
+Support Vector Classification 
+KNN Classification
 
 Model Evaluation The models were evaluated using the following metrics:
 
