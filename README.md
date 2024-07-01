@@ -9,10 +9,10 @@ The dataset has to be preprocessed to handle missing values, encode categorical 
 
 The following machine learning models were implemented and evaluated:
 
-Logistic Regression 
-Random Forest 
-Gradient Boosting 
-Support Vector Classification 
+Logistic Regression,
+Random Forest,
+Gradient Boosting,
+Support Vector Classification,
 KNN Classification
 
 Model Evaluation The models were evaluated using the following metrics:
