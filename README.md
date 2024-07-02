@@ -56,10 +56,14 @@ EDA was conducted to understand the distribution and relationships between varia
 ## Machine Learning Models
 The following machine learning models were implemented and evaluated:  <br>
 * Logistic Regression  <br>
-* Random Forest  <br>
-* Gradient Boosting  <br>
+* Random Forest Classifier <br>
+* Gradient Boosting  Classifier <br>
 * Support Vector Classification (SVC)  <br>
 * KNN Classification  <br>
+* Multinomial Naive Bayes <br>
+* Gaussian Naive Bayes <br>
+* Bernaulli Naive Bayes <br>
+* Categorical Naive Bayes <br>
 
 <a name="ModelEvaluation"></a>
 ## Model Evaluation
