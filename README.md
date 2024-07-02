@@ -20,22 +20,22 @@ Customer churn is a critical issue for telecom companies as it directly impacts 
 
 ## Dataset
 The dataset used in this project includes information on telecom customers and their subscription details. The columns are:  <br>
-SeniorCitizen  <br>
-tenure  <br>
-customerID  <br>
-gender  <br>
-Partner  <br>
-Dependents  <br>
-PhoneService  <br>
-MultipleLines  <br>
-InternetService  <br>
-OnlineSecurity  <br>
-OnlineBackup  <br>
-DeviceProtection  <br>
-TechSupport  <br>
-MonthlyCharges  <br>
-StreamingTV  <br>
-StreamingMovies  <br>
+* SeniorCitizen  <br>
+* tenure  <br>
+* customerID  <br>
+* gender  <br>
+* Partner  <br>
+* Dependents  <br>
+* PhoneService  <br>
+* MultipleLines  <br>
+I* nternetService  <br>
+* OnlineSecurity  <br>
+* OnlineBackup  <br>
+* DeviceProtection  <br>
+* TechSupport  <br>
+* MonthlyCharges  <br>
+* StreamingTV  <br>
+* StreamingMovies  <br>
 Contract  <br>
 PaperlessBilling  <br>
 PaymentMethod  <br>
