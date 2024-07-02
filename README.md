@@ -4,21 +4,18 @@ This portfolio project includes the analysis and prediction of churn of telecom 
 
 ## Table of Contents-
 [Introduction](#intro)  <br>
-Dataset  <br>
-Data Preprocessing  <br>
-Exploratory Data Analysis (EDA)
-Machine Learning Models
-Model Evaluation
-Results
-Installation and Usage
-Contributing
-License
+[Dataset](#datase)} <br>
+[Data Preprocessing](#dataset)  <br>
+[Exploratory Data Analysis (EDA)](#dataset)  <br>
+Machine Learning Models {#dataset}  <br>
+Model Evaluation {#dataset}  <br>
+Results {#dataset}  <br>
 
 
 ## Introduction {#intro}
 Customer churn is a critical issue for telecom companies as it directly impacts revenue and profitability. By predicting churn, businesses can implement targeted retention strategies to retain valuable customers. This project focuses on predicting customer churn using various machine learning models and visualizing the insights through Power BI. <br>
 
-## Dataset
+## Dataset {#dataset}
 The dataset used in this project includes information on telecom customers and their subscription details. The columns are:  <br>
 * SeniorCitizen  <br>
 * tenure  <br>
@@ -28,7 +25,7 @@ The dataset used in this project includes information on telecom customers and t
 * Dependents  <br>
 * PhoneService  <br>
 * MultipleLines  <br>
-I* nternetService  <br>
+* InternetService  <br>
 * OnlineSecurity  <br>
 * OnlineBackup  <br>
 * DeviceProtection  <br>
@@ -36,18 +33,18 @@ I* nternetService  <br>
 * MonthlyCharges  <br>
 * StreamingTV  <br>
 * StreamingMovies  <br>
-Contract  <br>
-PaperlessBilling  <br>
-PaymentMethod  <br>
-TotalCharges  <br>
-Churn  <br>
+* Contract  <br>
+* PaperlessBilling  <br>
+* PaymentMethod  <br>
+* TotalCharges  <br>
+* Churn  <br>
 
 
-## Data Preprocessing
+## Data Preprocessing{#pre}
 To prepare the data for modeling, the following preprocessing steps were performed:  <br>
-Handling missing values  <br>
-Encoding categorical variables  <br>
-Normalizing numerical features <br>
+* Handling missing values  <br>
+* Encoding categorical variables  <br>
+* Normalizing numerical features <br>
 
 
 ## Exploratory Data Analysis (EDA)
@@ -55,26 +52,26 @@ EDA was conducted to understand the distribution and relationships between varia
 
 ## Machine Learning Models
 The following machine learning models were implemented and evaluated:  <br>
-Logistic Regression  <br>
-Random Forest  <br>
-Gradient Boosting  <br>
-Support Vector Classification (SVC)  <br>
-KNN Classification v
+* Logistic Regression  <br>
+* Random Forest  <br>
+* Gradient Boosting  <br>
+* Support Vector Classification (SVC)  <br>
+* KNN Classification  <br>
 
 
 ## Model Evaluation
 The models were evaluated using the following metrics:  <br>
-Accuracy  <br>
-Precision  <br>
-Recall  <br>
-F1 Score  <br>
+* Accuracy  <br>
+* Precision  <br>
+* Recall  <br>
+* F1 Score  <br>
 
 ## Results
 The Gradient Boosting model provided the best performance with the following metrics:  <br>
-Accuracy: 80.65%  <br>
-Precision: 84 %  <br>
-Recall: 91 %  <br>
-F1 Score: 87 %  <br>
+* Accuracy: 80.65%  <br>
+* Precision: 84 %  <br>
+* Recall: 91 %  <br>
+* F1 Score: 87 %  <br>
 
 Detailed performance metrics for each model are provided in the results section of the project.
 
