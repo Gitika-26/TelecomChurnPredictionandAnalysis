@@ -78,7 +78,7 @@ The Gradient Boosting model provided the best performance with the following met
 * Recall: 91 %  <br>
 * F1 Score: 87 %  <br>
 
-Detailed performance metrics for each model are provided in the results section of the project.
+
 
 
 
