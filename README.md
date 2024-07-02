@@ -12,7 +12,8 @@ This portfolio project includes the analysis and prediction of churn of telecom 
 [Results](#Results) <br>
 
 
-## Introduction {#intro}
+<a name="intro"></a>
+## Introduction
 Customer churn is a critical issue for telecom companies as it directly impacts revenue and profitability. By predicting churn, businesses can implement targeted retention strategies to retain valuable customers. This project focuses on predicting customer churn using various machine learning models and visualizing the insights through Power BI. <br>
 
 ## Dataset {#dataset}
