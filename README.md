@@ -3,7 +3,7 @@
 This portfolio project includes the analysis and prediction of churn of telecom customers. It aims to predict customer churn for a subscription service using supervised machine learning techniques. Churn prediction helps businesses identify customers who are likely to cancel their subscription, allowing for proactive retention strategies. The insights and predictions are visualized using Power BI for better decision-making.
 
 ## Table of Contents-
-Introduction
+Introduction <br>
 Dataset
 Data Preprocessing
 Exploratory Data Analysis (EDA)
