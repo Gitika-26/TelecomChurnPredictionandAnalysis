@@ -2,7 +2,7 @@
 
 This portfolio project includes the analysis and prediction of churn of telecom customers. It aims to predict customer churn for a subscription service using supervised machine learning techniques. Churn prediction helps businesses identify customers who are likely to cancel their subscription, allowing for proactive retention strategies. The insights and predictions are visualized using Power BI for better decision-making.
 
-Table of Contents-
+## Table of Contents-
 Introduction
 Dataset
 Data Preprocessing
@@ -15,10 +15,10 @@ Contributing
 License
 
 
-Introduction
+## Introduction
 Customer churn is a critical issue for telecom companies as it directly impacts revenue and profitability. By predicting churn, businesses can implement targeted retention strategies to retain valuable customers. This project focuses on predicting customer churn using various machine learning models and visualizing the insights through Power BI.
 
-Dataset
+## Dataset
 The dataset used in this project includes information on telecom customers and their subscription details. The columns are:
 
 SeniorCitizen
@@ -44,17 +44,17 @@ TotalCharges
 Churn
 
 
-Data Preprocessing
+## Data Preprocessing
 To prepare the data for modeling, the following preprocessing steps were performed:
 Handling missing values
 Encoding categorical variables
 Normalizing numerical features
 
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 EDA was conducted to understand the distribution and relationships between variables. Key insights were visualized using various plots and graphs.
 
-Machine Learning Models
+## Machine Learning Models
 The following machine learning models were implemented and evaluated:
 
 Logistic Regression
@@ -65,14 +65,14 @@ KNN Classification
 Model Evaluation
 
 
-The models were evaluated using the following metrics:
+## The models were evaluated using the following metrics:
 
 Accuracy
 Precision
 Recall
 F1 Score
 
-Results
+## Results
 The Gradient Boosting model provided the best performance with the following metrics:
 
 Accuracy: 80.65%
